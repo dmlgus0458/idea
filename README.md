@@ -17,11 +17,15 @@
 ## :link: 쇼핑몰 SITE
 * [코코도르](https://www.cocodor.co.kr/)
 
+## :link: cloud platform
+* [kioskloud](https://kioskloud.io/)
+  
 # CHATTINGROOM
 
 ## :link: CHATTINGROOM Repo
 * [client](https://github.com/dmlgus0458/chatapp-client)
 * [server](https://github.com/dmlgus0458/chatapp)
+
 
 # 협업툴
 * 노션
