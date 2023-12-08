@@ -1,4 +1,4 @@
-#API
+# API
 
 ## :link: 결제 API
 * [아임포트](https://admin.portone.io/auth/signin)
@@ -12,15 +12,15 @@
 * [chatbot(chatgpt연동)](https://platform.openai.com/docs/api-reference/introduction)
 
 
-#SITE
+# SITE
 
 ## :link: 쇼핑몰 SITE
 * [코코도르](https://www.cocodor.co.kr/)
 
-#협업툴
-*노션
-*트렐로
-*슬랙
+# 협업툴
+* 노션
+* 트렐로
+* 슬랙
 
 
 
