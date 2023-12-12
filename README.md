@@ -14,6 +14,10 @@
 
 # SITE
 
+## :link: 경매 SITE
+* [stockx](https://stockx.com/)
+* [GOAT](https://www.goat.com/)
+
 ## :link: 쇼핑몰 SITE
 * [코코도르](https://www.cocodor.co.kr/)
 
